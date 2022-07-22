@@ -1,9 +1,8 @@
 ### Olá! Eu sou o Vinicius Lataro 👋
 
-- 🔭 I’m currently working on back-end
+- 🔭 I’m currently working on self back-end projects
 - 🌱 I’m currently learning ruby on rails and elixir
-- 😄 Pronouns: he/his
-- ⚡ Fun fact: I'm a musician
+- ⚡ Fun fact: I'm a musician and an architect as a hobby
 
 <div style="display: inline_block"><br>
   <a href="https://github.com/viniLataro">
@@ -15,7 +14,10 @@
     <img align="center" alt="Vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Vini-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
+  <img align="center" alt="Vini-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Vini-Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg">
+  <img align="center" alt="Vini-Rails" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg">
+  <img align="center" alt="Vini-Rails" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg">
 </div>
   
 ##
